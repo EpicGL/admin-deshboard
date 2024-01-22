@@ -19,7 +19,7 @@ const Sidebar = () => {
   return (
     <div className='ml-3 h-screen md:overflow-hidden overflow-auto md:hover:overflow-auto pb-10'>
       {activeMenu && (<>
-        <div className='flex justify-between items-center gap-3 ml-3 mt-8 text-xl font-extrabold tracking-tight dark:text-white text-slate-900'>
+        <div  className='flex justify-between items-center gap-3 ml-3 mt-8 text-xl font-extrabold tracking-tight dark:text-white text-slate-900'>
           <Link to='/' className='flex items-center' onClick={() => handleCloseSideBar()} > <SiShopware/> <span className='ml-1'>DashBoard</span>  </Link>
           <TooltipComponent content='Menu' position='BottomCenter'>
             <button type="button" onClick={()=>(setActiveMenu((prevstate: boolean)=>!prevstate))}><div className='pl-1 pr-1 mr-1 text-xl' style={{ borderRadius:'50%'}}> <MdOutlineCancel/></div></button>

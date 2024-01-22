@@ -67,12 +67,6 @@ function App() {
                 
                 <Route path='/line' element={<Line/>} />
                 <Route path='/area' element={<Area/>} />
-                <Route path='/bar' element={<Bar/>} />
-                <Route path='/pie' element={<Pie/>} />
-                <Route path='/financial' element={<Fainancial/>} />
-                <Route path='/color-mapping' element={<ColoerMapping/>} />
-                <Route path='/pyramid' element={<Pyramid/>} />
-                <Route path='/stacked' element={<Stacked/>} />
               </Routes>
             </div>
           </div>
