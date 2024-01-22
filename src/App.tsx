@@ -6,7 +6,7 @@ import { TooltipComponent } from '@syncfusion/ej2-react-popups';
 import { FiSettings } from 'react-icons/fi';
 
 import { Navbar, Sidebar, ThemeSettings } from './components';
-import { Calender,Area,Bar,ColoerMapping,ColorPicker,Customers,Ecommarce,Editor,Empolyees,Fainancial,Kanban,Line,Order,Pie,Pyramid,Stacked } from './pages';
+import { Calender,Area,ColorPicker,Customers,Ecommarce,Editor,Empolyees,Kanban,Line,Order } from './pages';
 import './App.css'
 
 function App() {

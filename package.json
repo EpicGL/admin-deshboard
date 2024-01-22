@@ -2,7 +2,7 @@
   "homepage": "https://mukit.github.io/",
   "name": "admin-deshboard",
   "private": true,
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
