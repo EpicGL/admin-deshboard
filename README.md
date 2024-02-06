@@ -22,9 +22,12 @@ React Router: A declarative routing library for React applications, enabling nav
 To run the project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/mukit-hasan/admin-deshboard
-Navigate to the project directory: cd admin-dashboard
-Install dependencies: npm install or yarn install
-Start the development server: npm run dev or yarn dev
+Navigate to the project directory: 
+```cd admin-dashboard```
+Install dependencies: 
+```npm install or yarn install```
+Start the development server: 
+```npm run dev or yarn dev```
 Open your browser and go to http://localhost:5173 to view the dashboard.
 
 ##Usage
@@ -32,7 +35,7 @@ Open your browser and go to http://localhost:5173 to view the dashboard.
 Navigation: Use the sidebar navigation to navigate between different sections.
 User Management: Access the user management section to add, edit, or delete user accounts.
 Settings: Customize dashboard settings and preferences as needed.
-Theme: You can change your theme in one Click and change color for everthing 
+Theme: You can change your theme in one Click and change color for everything 
 Employee Management: Access your Employee management section to add, edit, or delete user accounts.
 
 
@@ -40,9 +43,13 @@ License
 This project is licensed under the [MIT License.](https://opensource.org/license/mit/)
 
 ### Acknowledgements
+
 [Vite Documentation](https://vitejs.dev/)
+
 [React Documentation](https://legacy.reactjs.org/docs/getting-started.html)
+
 [Tailwind CSS Documentation](https://tailwindcss.com/docs/guides/vite)
+
 [React Router Documentation](https://reactrouter.com/en/main)
 
 
