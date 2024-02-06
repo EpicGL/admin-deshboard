@@ -18,6 +18,7 @@ This project is a simple admin dashboard built using modern web development tech
 **Tailwind CSS:** A utility-first CSS framework for quickly building custom designs.<br>
 **React Router:** A declarative routing library for React applications, enabling navigation and routing functionalities. <br>
 
+### Visit Live [Demo](https://astonishing-chebakia-54e766.netlify.app/) 
 
 ### Installation
 To run the project locally, follow these steps:<br>
