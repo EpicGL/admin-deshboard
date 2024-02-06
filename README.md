@@ -40,11 +40,17 @@ Open your browser and go to http://localhost:5173 to view the dashboard.
 
 ## Usage
 
-Navigation: Use the sidebar navigation to navigate between different sections.
-User Management: Access the user management section to add, edit, or delete user accounts.
-Settings: Customize dashboard settings and preferences as needed.
-Theme: You can change your theme in one Click and change color for everything 
-Employee Management: Access your Employee management section to add, edit, or delete user accounts.
+**Navigation:** Use the sidebar navigation to navigate between different sections.
+
+**User Management:** Access the user management section to add, edit, or delete user accounts.
+
+**Settings:** Customize dashboard settings and preferences as needed.
+
+**Theme:** You can change your theme in one Click and change color for everything 
+
+**Employee Management:** Access your Employee Management section to add, edit, or delete user accounts.
+
+**Rich text editor:** Your Have Access to one of the most powerful Text editor where you can add images in your post and other powerful features
 
 
 ### License
