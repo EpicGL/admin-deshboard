@@ -12,11 +12,11 @@ Settings: Users have access to settings where they can customize their preferenc
 
 ## Technologies Used
 
-**Vite:** A next-generation front-end tooling tool that provides blazing-fast development server and build times.
-**React:** A JavaScript library for building user interfaces.
-**TypeScript: ** A typed superset of JavaScript that helps in writing safer and more scalable code.
-**Tailwind CSS:** A utility-first CSS framework for quickly building custom designs.
-**React Router:** A declarative routing library for React applications, enabling navigation and routing functionalities.
+**Vite:** A next-generation front-end tooling tool that provides blazing-fast development server and build times. ( <br> )
+**React:** A JavaScript library for building user interfaces. ( <br> )
+**TypeScript: ** A typed superset of JavaScript that helps in writing safer and more scalable code. ( <br> )
+**Tailwind CSS:** A utility-first CSS framework for quickly building custom designs. ( <br> )
+**React Router:** A declarative routing library for React applications, enabling navigation and routing functionalities. ( <br> )
 
 
 ### Installation
